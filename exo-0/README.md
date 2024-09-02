@@ -27,3 +27,5 @@ Décommenter la ligne puis recharger la page.
 ```
 
 Que se passe-t-il et pourquoi ?
+
+il y a une erreur où une variable n'est pas définie car elle a ete appeler Variable et non myVaribale

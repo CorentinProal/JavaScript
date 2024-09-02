@@ -43,3 +43,6 @@ var kelvins = prompt("Quelle est la température en Kelvins aujourd'hui ?");
 ```
 
 et relancer le programme.
+
+
+https://www.codecademy.com/courses/introduction-to-javascript/lessons/introduction-to-javascript/exercises/intro
