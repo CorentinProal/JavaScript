@@ -2,20 +2,6 @@
 
 console.log('Partie 5');
 
-/* Code avant changement étape 6
-let input = "Turpentine and turtles";
-let vowels = ['a', 'e', 'i', 'o', 'u'];
-let resultArray = [];
-
-for (let letter of input) {
-    if (vowels.indexOf(letter.toLowerCase()) !== -1) {
-        resultArray.push(letter);
-    }
-}
-console.log(resultArray);
- */
-
-// Code après changement étape 6
 let input = "Turpentine and turtles";
 let vowels = ['a', 'e', 'i', 'o', 'u'];
 let resultArray = [];
